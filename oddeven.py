@@ -1,6 +1,6 @@
 #program to check if a number is odd or Even
 num = int(input("Enter a number: "))
-
+num3=10
 num2=10
 
 if (num % 2) == 0:
